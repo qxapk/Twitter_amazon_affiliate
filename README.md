@@ -33,5 +33,5 @@
 
 公众号时常分享前沿黑科技代码、思路，欢迎关注！
 <div 对齐=居中>
-<img src="img/j.png" width="50" height="50"/>
+<img src="img/j.png" width="400" height="400"/>
 </div>
